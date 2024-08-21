@@ -1,5 +1,11 @@
 # neverthrow
 
+## 7.0.2
+
+### Patch Changes
+
+- [#563](https://github.com/supermacro/neverthrow/pull/563) [`eadf50c`](https://github.com/supermacro/neverthrow/commit/eadf50c695db896b8841c0ee301ae5eeba994b90) Thanks [@mattpocock](https://github.com/mattpocock)! - Made err() infer strings narrowly for easier error tagging.
+
 ## 7.0.1
 
 ### Patch Changes
